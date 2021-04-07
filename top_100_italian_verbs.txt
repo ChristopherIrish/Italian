@@ -1,4 +1,4 @@
-Last updated: Wed 07 April 2021, 15:00
+Last updated: Wed 07 April 2021, 11:21
 http://www.verbix.com/webverbix/Italian/fare.html
 
 The Present Tense:
@@ -6,12 +6,12 @@ The Present Tense:
 -ERE (-o, i, e, iamo, ete, ono)
 -IRE (-o, i, e, iamo, ite, ono)
 
-The Present Continuous: -ARE (–ando) // -ERE (–endo) // -IRE (–endo)
+The Present Continuous: -ARE (â€“ando) // -ERE (â€“endo) // -IRE (â€“endo)
 
 The Future Tense:
--ARE (-erò, erai, erà, eremo, erete, eranno)  Radio Rai = rai
--ERE (-erò, erai, erà, eremo, erete, eranno)
--IRE (-irò, irai, irà, iremo, irete, iranno)
+-ARE (-erÃ², erai, erÃ , eremo, erete, eranno)  Radio Rai = rai
+-ERE (-erÃ², erai, erÃ , eremo, erete, eranno)
+-IRE (-irÃ², irai, irÃ , iremo, irete, iranno)
 
 The Conditional Tense:
 -ARE (-erei, eresti, erebbe, eremmo, ereste, erebbero)  rei = ray
@@ -30,7 +30,7 @@ aiutare = to help
 aiuto        = I help / I am helping
 sto aiutando = I am helping
 ho aiutato   = I helped / I have helped
-aiuterò      = I will help
+aiuterÃ²      = I will help
 aiuterei     = I would help
 aiutavo      = I was helping / I used to help
 
@@ -38,7 +38,7 @@ parlare = to speak, talk
 parlo        = I speak / I am speaking
 sto parlando = I am speaking
 ho parlato   = I spoke / I have spoken
-parlerò      = I will speak
+parlerÃ²      = I will speak
 parlerei     = I would speak
 parlavo      = I was speaking / I used to speak
 
@@ -46,7 +46,7 @@ entrare = to enter (go in)
 entro          = I enter / I am entering
 sto entrando   = I am entering
 sono entrato/a = I entered (went in)
-entrerò        = I will enter (go in)
+entrerÃ²        = I will enter (go in)
 entrerei       = I would enter (go in)
 entravo        = I was entering / I entered / I used to enter
 
@@ -54,7 +54,7 @@ vendere = to sell
 vendo        = I sell / I am selling
 sto vendendo = I am selling
 ho venduto   = I sold / I have sold
-venderò      = I will sell
+venderÃ²      = I will sell
 venderei     = I would sell
 vendevo      = I was selling / I sold / I used to sell
 
@@ -62,7 +62,7 @@ spedire = to send, ship, mail
 spedisco     = I send / I am sending
 sto spedendo = I am sending
 ho spedito   = I sent / I have sent
-spedirò      = I will send
+spedirÃ²      = I will send
 spedirei     = I would send
 spedivo      = I was sending
 
@@ -70,7 +70,7 @@ pulire = to clean
 pulisco      = I clean / I am cleaning
 sto pulendo  = I am cleaning
 ho pulito    = I cleaned / I have cleaned
-pulirò       = I will clean
+pulirÃ²       = I will clean
 pulirei      = I would clean
 pulivo       = I was cleaning / I used to clean / I cleaned
 
@@ -119,8 +119,8 @@ Some common irregular verbs:
 essere = to be      stare = to be / to stay
 (io)      sono      sto      I am
 (tu)      sei       stai     you are
-(lui/lei) è         sta      he/she/it is
-(Lei)     è         sta      you are
+(lui/lei) Ã¨         sta      he/she/it is
+(Lei)     Ã¨         sta      you are
 (noi)     siamo     stiamo   we are
 (voi)     siete     state    you are
 (loro)    sono      stanno   they are
@@ -137,8 +137,8 @@ andare = to go                               fare = to do / make
 avere = to have                      dare = to give            sapere = to know (knowledge)
 (io)   ho       I have / have got    do     I give             so        I know
 (tu)   hai      you have             dai    you give           sai       you know
-(lui/lei) ha    he/she/it has        dà     he/she/it gives    sa        he/she/it know
-(Lei)  ha       you have             dà     you give           sa        you know
+(lui/lei) ha    he/she/it has        dÃ      he/she/it gives    sa        he/she/it know
+(Lei)  ha       you have             dÃ      you give           sa        you know
 (noi)  abbiamo  we have              diamo  we give            sappiamo  we know
 (voi)  avete    you have             date   you give           sapete    you know
 (loro) hanno    they have            danno  they give          sanno     they know
@@ -146,8 +146,8 @@ avere = to have                      dare = to give            sapere = to know 
 dire = to say                              potere = to be able
 (io)       dico     I say                  posso     I can
 (tu)       dici     you say /are saying    puoi      you can
-(lui/lei)  dice     he/she/it says         può       he/she/it can
-(Lei)      dice     you say                può       you can
+(lui/lei)  dice     he/she/it says         puÃ²       he/she/it can
+(Lei)      dice     you say                puÃ²       you can
 (noi)      diciamo  we say                 possiamo  we can
 (voi)      dite     you say                potete    you can
 (loro)     dicono   they say               possono   they can
@@ -179,8 +179,8 @@ Vuole queste? - No, costano troppo.
 Crescono bene.        = They (it) are growing well.
 Hai abbastanza soldi? = Have you enough money?
 
-–ando: -ARE
-–endo: -ERE / -IRE
+â€“ando: -ARE
+â€“endo: -ERE / -IRE
 
 The present continuous is only used to talk about what is happening RIGHT NOW:
 sto cercando...  = I'm looking for...
@@ -229,7 +229,7 @@ alzarsi          to get up
 vestirsi         to dress oneself
 svegliarsi       to wake (oneself) up
 lavarsi          to wash oneself
-pettinarsi       to comb one’s hair
+pettinarsi       to comb oneâ€™s hair
 sedersi          to sit (oneself) down
 sentirsi         to feel
 spogliarsi       to undress (oneself)
@@ -251,71 +251,71 @@ farsi la doccia  to shower (oneself)
 pulirsi          to clean oneself 
 sbarbarsi        to shave oneself 
 
-I get up at 7 o’clock.   = Mi alzo alle sette.
+I get up at 7 oâ€™clock.   = Mi alzo alle sette.
 What are you called?     = Come ti chiami?
-Don’t worry!             = Non vi preoccupate!
+Donâ€™t worry!             = Non vi preoccupate!
 Hurry up!                = Sbrigati!
-We’re getting ready.     = Ci prepariamo.
+Weâ€™re getting ready.     = Ci prepariamo.
 Matteo is getting bored. = Matteo si annoia.
-Lucia hurt herself.      = Lucia si è fatta male.
+Lucia hurt herself.      = Lucia si Ã¨ fatta male.
 The children are enjoying themselves. =
                           I bambini si divertono.
 
 =============================================================================
 The Future Tense:
 =============================================================================
--ARE (-erò, erai, erà, eremo, erete, eranno)
--ERE (-erò, erai, erà, eremo, erete, eranno)
--IRE (-irò, irai, irà, iremo, irete, iranno)
+-ARE (-erÃ², erai, erÃ , eremo, erete, eranno)
+-ERE (-erÃ², erai, erÃ , eremo, erete, eranno)
+-IRE (-irÃ², irai, irÃ , iremo, irete, iranno)
 
-(io)      parlerò     I will speak
+(io)      parlerÃ²     I will speak
 (tu)      parlerai    you will speak
-(lui/lei) parlerà     he/she will speak
-(Lei)     parlerà     you will speak
+(lui/lei) parlerÃ      he/she will speak
+(Lei)     parlerÃ      you will speak
 (noi)     parleremo   we will speak
 (voi)     parlerete   you will speak
 (loro)    parleranno  they will speak
 
-(io)      sarò     I will be
+(io)      sarÃ²     I will be
 (tu)      sarai    you will be
-(lui/lei) sarà     he/she/it will be
-(Lei)     sarà     you will be
+(lui/lei) sarÃ      he/she/it will be
+(Lei)     sarÃ      you will be
 (noi)     saremo   we will be
 (voi)     sarete   you will be
 (loro)    saranno  they will be
 
-(io)      avrò     I will have
+(io)      avrÃ²     I will have
 (tu)      avrai    you will be
-(lui/lei) avrà     he/she/it will have
-(Lei)     avrà     you will have
+(lui/lei) avrÃ      he/she/it will have
+(Lei)     avrÃ      you will have
 (noi)     avremo   we will have
 (voi)     avrete   you will have
 (loro)    avranno  they will have
 
-andare  to go       (io) andrò  (tu) andrai
-cadere  to fall     (io) cadrò
-dire    to say      (io) dirò
-dovere  to have to  (io) dovrò
-fare    to do/make  (io) farò
-potere  to be able  (io) potrò
-sapere  to know     (io) saprò
-vedere  to see      (io) vedrò
-vivere  to live     (io) vivrò
+andare  to go       (io) andrÃ²  (tu) andrai
+cadere  to fall     (io) cadrÃ²
+dire    to say      (io) dirÃ²
+dovere  to have to  (io) dovrÃ²
+fare    to do/make  (io) farÃ²
+potere  to be able  (io) potrÃ²
+sapere  to know     (io) saprÃ²
+vedere  to see      (io) vedrÃ²
+vivere  to live     (io) vivrÃ²
 
-rimanere  to remain      (io) rimarrò  (tu) rimarrai
-tenere    to hold, keep  (io) terrò
-venire    to come        (io) verrò
-volere    to want        (io) vorrò
+rimanere  to remain      (io) rimarrÃ²  (tu) rimarrai
+tenere    to hold, keep  (io) terrÃ²
+venire    to come        (io) verrÃ²
+volere    to want        (io) vorrÃ²
 
 Examples:
-parlerò = I will speak
-mangerò = I will eat
-pagherò = I will pay
-crederò = I will believe
-finirò  = I will finish
+parlerÃ² = I will speak
+mangerÃ² = I will eat
+pagherÃ² = I will pay
+crederÃ² = I will believe
+finirÃ²  = I will finish
 
-Sarà difficile.  = It will be difficult.
-Non avrò tempo.  = I will not have time.
+SarÃ  difficile.  = It will be difficult.
+Non avrÃ² tempo.  = I will not have time.
 Lo avrai domani. = You will have it tomorrow.
 
 =============================================================================
@@ -384,20 +384,20 @@ We were all happy.             = Eravamo tutti felici.
 I was hungry.                  = Avevo fame.
 
 To say what people knew, thought or meant in the past:
-I didn’t know what you meant. = Non sapevo cosa volevi dire.
+I didnâ€™t know what you meant. = Non sapevo cosa volevi dire.
 I thought it was him.         = Pensavo che fosse lui.
 
 To say what used to happen or what people used to do in the past:
-We met every Friday. = Ci trovavamo ogni venerdì.
+We met every Friday. = Ci trovavamo ogni venerdÃ¬.
 They used to sell eggs in the market. = Vendevano le uova al mercato.
 
 To describe what was going on when an event took place:
-We were watching the match when he came in. = Guardavamo la partita quando è entrato lui.	
-It happened while they were asleep. = È successo mentre dormivano.
+We were watching the match when he came in. = Guardavamo la partita quando Ã¨ entrato lui.	
+It happened while they were asleep. = Ãˆ successo mentre dormivano.
 While you were talking I remembered something. = 
 Mentre parlavi mi sono ricordato di qualcosa.	
 
-- The imperfetto is commonly used for events that happened continuously in the past on a regular basis (e.g. “used to” in English):
+- The imperfetto is commonly used for events that happened continuously in the past on a regular basis (e.g. â€œused toâ€ in English):
 
 When I was a kid in Italy, I used to eat pasta every day!
 Quando ero un bambino in Italia, mangiavo la pasta tutti i giorni.
@@ -479,7 +479,7 @@ vedevo  = I saw
 
 Examples:
 She never smiled.                   = Non sorrideva mai.
-It happened while they were asleep. = È successo mentre dormivano.
+It happened while they were asleep. = Ãˆ successo mentre dormivano.
 She was sleepy.                     = Aveva sonno.
 He had a headache.                  = Gli faceva male la testa.
 We were sad.                        = Eravamo tristi.
@@ -490,16 +490,16 @@ The Perfect Tense (passato prossimo):
 passato prossimo is usually made with avere (ho, hai, ha, abbiamo, avete, hanno) + verb.
 
 -ARE (-> ato)
-imparare  (to learn) — imparato
-camminare (to walk)  — camminato
+imparare  (to learn) â€” imparato
+camminare (to walk)  â€” camminato
 
 -ERE (-> uto)
-credere (to believe) — creduto
-tenere  (to keep)    — tenuto
+credere (to believe) â€” creduto
+tenere  (to keep)    â€” tenuto
 
 -IRE (-> ito)
-capire (to understand) — capito
-finire (to finish)     — finito
+capire (to understand) â€” capito
+finire (to finish)     â€” finito
 
 Some common irregular verbs:
 aprire (to open)            aperto (opened)
@@ -547,15 +547,15 @@ ho finito  = I finished
 
 (io) sono andato/a   = I went / I have gone
 (tu) sei  andato/a   = you went / you have gone
-(lui) è andato       = he/it went or has gone
-(lei) è andata       = she/it went or has gone
+(lui) Ã¨ andato       = he/it went or has gone
+(lei) Ã¨ andata       = she/it went or has gone
 (noi) siamo andati/e = we went or have gone
 (voi) siete andati/e = you went or has gone
 (loro) sono andati/e = they went or have gone
 
 sono stato = I have been
 sei stato  = you have been
-è stato    = it was, he/she has been, you have been
+Ã¨ stato    = it was, he/she has been, you have been
 sono stata salvata      = I was saved
 siamo stati             = we were
 siamo stati selezionati = we were selected
@@ -631,8 +631,8 @@ sono stato invitato (m)  = I was invited, have been invited
 sono stata invitata (f)  = I was invited, have been invited
 sei stato invitato (m)   = you were invited, have been invited
 sei stata invitata (f)   = you were invited, have been invited
-è stato invitato (m)     = he was invited, has been invited
-è stata invitata (f)     = she was invited, has been invited
+Ã¨ stato invitato (m)     = he was invited, has been invited
+Ã¨ stata invitata (f)     = she was invited, has been invited
 siamo stati invitati (m) = we were, have been invited
 siamo state invitate (f) = we were, have been invited
 siete stati invitati (m) = you were, have been invited
@@ -691,7 +691,7 @@ Piove. = It's raining.
 Sta piovendo? = Is it raining?
 
 parere and sembrare (to seem) are often used impersonally.
-Pare di sì. = It seems so.
+Pare di sÃ¬. = It seems so.
 Pare di no. = Apparently not.
 to appear   = parere (parso)
 
@@ -763,7 +763,7 @@ In Italian prepositions are followed by the infinitive:
 Prima di aprire il... = Before opening the...
 
 In Italian the infinitive, not the gerund, is used as a noun:
-Ascoltare la musica è rilassante. = Listening to music is relaxing.
+Ascoltare la musica Ã¨ rilassante. = Listening to music is relaxing.
 Camminare fa bene.  = Walking is good for you.
 Mi piace cavalcare. = I like riding.
 
@@ -810,7 +810,7 @@ mandare qualcosa a qualcuno   = to send something to someone
 scrivere qualcosa a qualcuno  = to write something to someone
 mostrare qualcosa a qualcuno  = to show something to someone
 
-arrivare a (una città)        = to arrive at (a town)
+arrivare a (una cittÃ )        = to arrive at (a town)
 avvicinarsi a qualcuno        = to approach someone
 chiedere qualcosa a qualcuno  = to ask someone something
 far male a qualcuno           = to hurt someone
@@ -888,11 +888,11 @@ Mi piace cucinare.    = I like cooking.
 Ci piace camminare.   = We like walking.
 A loro piace leggere. = They like reading.
 
-Credi che la casa piacerà a Sara. = Do you think Sara will like the house?
+Credi che la casa piacerÃ  a Sara. = Do you think Sara will like the house?
 Questo libro ti piacerebbe. = You'd like this book.
                             ("This book to you would be pleasing")
 Da giovane gli piaceva nuotare. = When he was young he liked swimming.
-Il concerto è piaciuto a tutti. = Everyone liked the concert.
+Il concerto Ã¨ piaciuto a tutti. = Everyone liked the concert.
 Non credo che il calcio piaccia al professore. = I don't think that the teacher likes football.
 A loro piace il monte Olimpo.   = They like mount Olympus.
 Ci piacciono le montagne.       = We like mountains.
@@ -908,8 +908,8 @@ Non importa a mio marito. = My husband doesn't care.
 =============================================================================
 =============================================================================
 =============================================================================
-We met every Friday.                = Ci trovavamo ogni venerdì.
-It happened while they were asleep. = È successo mentre dormivano.
+We met every Friday.                = Ci trovavamo ogni venerdÃ¬.
+It happened while they were asleep. = Ãˆ successo mentre dormivano.
 I was hungry.                       = Avevo fame.
 He wasn't studying, he was asleep.  = Non stava studiando, dormiva.
 
@@ -932,7 +932,7 @@ to speak, talk         = parlare (ho parlato - I spoke / I talked / I told)
 to go out, exit        = uscire (sono uscito - I went out, I left)
 to take                = prendere (ho preso - I took / have taken / I got / have got)
 to surprise            = sorprendere (ho sorpreso - I was surprised)
-to like                = piacere (mi piace - I like (it) / I liked (it) - mi è piaciuto)
+to like                = piacere (mi piace - I like (it) / I liked (it) - mi Ã¨ piaciuto)
 to read                = leggere (ho letto - I read / I have read)
 to love                = amare (ho amato - I loved)
 to drink               = bere (ho bevuto -  I drank / I have drunk)
@@ -965,7 +965,7 @@ to return, come back   = tornare (sono tornato/a - I retuned / I have returned)
 to return (again)      = ritornare (sono ritornato/a - I returned / I have returned)
 to go up, get on       = salire (sono salito/a - I climbed, went up)
 to prefer              = preferire (ho preferito - I preferred)
-to die                 = morire (è morto - he died)
+to die                 = morire (Ã¨ morto - he died)
 to wait (for)          = aspettare (ho aspettato - I waited / I have waited)
 to buy                 = comprare (ho comprato - I bought / I have bought)
 to be born             = nascere (sono nato - I was born)
@@ -1086,12 +1086,12 @@ to sit (settle)        = accomodarsi
 to throw               = buttare
 to avoid               = evitare
 to run away, escape    = scappare
-to happen              = capitare (Più tardi mi è capitato di lavorare con lui.
+to happen              = capitare (PiÃ¹ tardi mi Ã¨ capitato di lavorare con lui.
                                    Later on I happened to work with him.
                                    capita - it happens)
 to happen              = succedere (usually 3rd person only
-                                    è successo - it happened / Che succede? - What's happening?)
-What happened?         = Cos'è successo?
+                                    Ã¨ successo - it happened / Che succede? - What's happening?)
+What happened?         = Cos'Ã¨ successo?
 to occur, happen       = accadere
 to be displeased       = dispiacere
 to fail                = fallire
